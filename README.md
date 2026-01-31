@@ -24,6 +24,15 @@
 - 🌍 Goal: Create technology that impacts millions
 
 ---
+## 🌍 Connect
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://flourishing-shortbread-6ed04c.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
 
 ## 🧰 Tech Universe
 
@@ -93,15 +102,7 @@
 
 ---
 
-## 🌍 Connect
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://flourishing-shortbread-6ed04c.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
-</p>
-
----
 
 ## 👀 Visitor Counter
 
